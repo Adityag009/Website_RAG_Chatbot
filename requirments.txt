@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-anthropic
+openai
+faiss-cpu
+chromadb
+tiktoken
+pypdf
+beautifulsoup4
